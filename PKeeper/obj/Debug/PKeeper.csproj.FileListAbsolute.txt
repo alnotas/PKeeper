@@ -1,0 +1,11 @@
+D:\My Documents\Dropbox\DEVELOP\C#\source\repos\PKeeper\PKeeper\obj\Debug\PKeeper.Properties.Resources.resources
+D:\My Documents\Dropbox\DEVELOP\C#\source\repos\PKeeper\PKeeper\obj\Debug\PKeeper.csproj.GenerateResource.Cache
+D:\My Documents\Dropbox\DEVELOP\C#\source\repos\PKeeper\PKeeper\bin\Debug\PKeeper.exe.config
+D:\My Documents\Dropbox\DEVELOP\C#\source\repos\PKeeper\PKeeper\bin\Debug\PKeeper.exe
+D:\My Documents\Dropbox\DEVELOP\C#\source\repos\PKeeper\PKeeper\bin\Debug\PKeeper.pdb
+D:\My Documents\Dropbox\DEVELOP\C#\source\repos\PKeeper\PKeeper\obj\Debug\PKeeper.exe
+D:\My Documents\Dropbox\DEVELOP\C#\source\repos\PKeeper\PKeeper\obj\Debug\PKeeper.pdb
+D:\My Documents\Dropbox\DEVELOP\C#\source\repos\PKeeper\PKeeper\obj\Debug\PKeeper.csprojResolveAssemblyReference.cache
+D:\My Documents\Dropbox\DEVELOP\C#\source\repos\PKeeper\PKeeper\obj\Debug\PKeeper.GridForm.resources
+D:\My Documents\Dropbox\DEVELOP\C#\source\repos\PKeeper\PKeeper\obj\Debug\PKeeper.PinForm.resources
+D:\My Documents\Dropbox\DEVELOP\C#\source\repos\PKeeper\PKeeper\obj\Debug\PKeeper.csproj.CoreCompileInputs.cache
